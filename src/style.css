@@ -1,0 +1,31 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.row {
+  display: flex;
+  align-self: center;
+}
+
+.item {
+  background-color: red;
+  border: 1px solid black;
+  height: 15px;
+  width: 15px;
+}
+
+.green {
+  background-color: green;
+  border: 1px solid greenyellow;
+}
+
+.black {
+  background-color: black;
+}
+
+.coin {
+  background-color: yellow;
+}
